@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.lymdata.com/sitemap.xml
+lmqztr9k6su4n29duxspag62h7s2o2: https://www.lymdata.com/lmqztr9k6su4n29duxspag62h7s2o2.html
