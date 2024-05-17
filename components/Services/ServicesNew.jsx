@@ -14,11 +14,11 @@ import GetInTouch from "@/components/Services/GetInTouch";
 import Link from 'next/link';
 import InfiniteScrollClients from "@/components/Services/InfiniteScrollClients";
 
-const ServicesNew = (title) => {
-  const { showPopup, setShowPoup } = useContext(showPopupContext);
-  const description = insideServiceContent.filter(
-    (details) => details.title == title?.title
-  );
+const ServicesNew = () => {
+  // const { showPopup, setShowPoup } = useContext(showPopupContext);
+  // const description = insideServiceContent.filter(
+  //   (details) => details.title == title?.title
+  // );
   const [showh3, setshowh3] = useState("");
   const setshow = (e) => {
     if (showh3 === e) {
@@ -32,31 +32,7 @@ const ServicesNew = (title) => {
     <>
       <div className="pt-20 p-2 max-w-[1640px] lg:max-w-[1150px] mx-auto">
         {/* 1st div */}
-        {description?.map((data) => (
-          <div className="md:min-h-screen md:flex md:flex-col md:justify-center">
-            <div className="md:grid   md:grid-cols-2 md:mt-[-100px]  md:justify-center md:items-center mx-auto">
-              <div className="md:h-[300px] ">
-                <p className="lg:text-7xl text-5xl font-bold">{data?.title}</p>
-
-                <p>
-                  <div
-                    className="cursor-pointer"
-                    onClick={() => setShowPoup(true)}
-                  >
-                    <p className="h-16 mt-10 mb-4 bg-black w-[180px] text-white flex justify-center items-center rounded-full ">
-                      Get in touch
-                    </p>
-                  </div>
-                  {showPopup && <GetInTouch></GetInTouch>}
-                </p>
-              </div>
-
-              <p className="text-xl leading-9  md:h-[300px] md:px-10 font-medium">
-                {data?.details}
-              </p>
-            </div>
-          </div>
-        ))}
+    
 
         {/* 2nd div */}
         <div className="md:grid-cols-2 md:grid">
@@ -83,7 +59,7 @@ const ServicesNew = (title) => {
                     m.id == "6" ? "md:mb-32" : "md:mb-0"
                   }  md:text-[18px] px-2 leading-[30px] mt-4`}
                 >
-                  {m.description}
+                  {/* {m.description} */}
                 </p>
               </div>
             ))}

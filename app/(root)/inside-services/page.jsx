@@ -1,20 +1,14 @@
 "use client"
 import React, { useEffect, useLayoutEffect } from "react";
-// import Footer from "../Components/Footer";
-// import Navbar from "../Components/Navbar";
-import Approaches from "@/console.assert(first, second)omponents/Services/Approaches";
+
 import ServicesEnd from "@/components/Services/ServicesEnd";
 import ServicesLanding from "@/components/Services/ServicesLanding";
 import UseDocumentTitle from "@/Hooks/UseDocumentTitle";
 import ServicesNew from "@/components/Services/ServicesNew";
+import { useRouter } from "next/router";
 
 const vices = () => {
-  const location = useRouter();
-  const title = location?.state?.title;
-  UseDocumentTitle("LYM DATA | Services");
-  // useEffect(() => {
-  //   window.scrollTo(0, 0);
-  // },[]);
+
 
   useEffect(() => {
     const handleScrollTop = () => {
@@ -66,7 +60,7 @@ const vices = () => {
         />
       {/* <Navbar /> */}
       {/* <ServicesLanding /> */}
-      <ServicesNew title={title} />
+      <ServicesNew  />
       {/* <Footer /> */}
     </>
   );
