@@ -1,8 +1,4 @@
 import React from "react";
-import AllBlogs from "@/components/Blog/AllBlogs";
-// import Footer from "@/components/Footer";
-// import Navbar from "@/components/Navbar";
-import UseDocumentTitle from "@/Hooks/UseDocumentTitle";
 import BlogNew from "@/components/Blog/BlogNew";
 import BlogCards from "@/components/Blog/BlogCards";
 

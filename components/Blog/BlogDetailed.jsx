@@ -170,6 +170,7 @@ import Footer from "@/Footer";
 
 const BlogDetailed = () => {
   const { name } = useParams();
+  console.log(name)
   const [blogCardss, setBlogCards] = useState("");
   const [combinedData, setCombinedData] = useState([]);
 

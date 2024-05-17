@@ -610,7 +610,7 @@ export const servv = [
 export const blogCards = [
   {
     id: 1,
-    name: "The Power of PredictiveAnalytics",
+    name: "ThePowerofPredictiveAnalytics",
     img: "https://lymdatalabs.s3.ap-south-1.amazonaws.com/lym+website/blogs/representation-user-experience-interface-design-computer-min.jpg",
     title:
       "The Power of Predictive Analytics: How Data Is Revolutionizing Decision-Making",
