@@ -6,6 +6,7 @@ import Blog5 from "../../Components/Blog/BlogComponents/Blog5";
 import Blog6 from "../../Components/Blog/BlogComponents/Blog6";
 import Blog7 from "../../Components/Blog/BlogComponents/Blog7";
 import Blog8 from "../../Components/Blog/BlogComponents/Blog8";
+import Blog9 from "@/Components/Blog/BlogComponents/Blog9";
 
 export const OurTechStack = [
   {
@@ -676,6 +677,15 @@ export const blogCards = [
       "The Power of AR and VR in Marketing: The Future of Marketing Trends ",
     desc: "Press Release • 04 Oct, 2023",
     more: Blog8,
+  },
+  {
+    id: 9,
+    name: "7SignsYouNeedAWebsiteRefresh",
+    img: "https://lymdatalabs.s3.ap-south-1.amazonaws.com/udrive/hands-businessman-typing-laptop-modern-office-with-smart-phone-digital-tablet-computer.jpg",
+    title:
+      "Are You worried About Your Website's Performance ? Here are 7 signs That Indicate It Might Be Time for a Refresh",
+    desc: "Press Release • 17 May, 2024",
+    more: Blog9,
   },
 ];
 
