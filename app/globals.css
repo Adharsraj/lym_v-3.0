@@ -1878,11 +1878,11 @@ span.two {
   }
   
   .client-logo {
-    width: 200px; /* Fixed width for all logos */
-    height: 100px; /* Fixed height for all logos */
+    width: 250px; /* Fixed width for all logos */
+    height: 140px; /* Fixed height for all logos */
     object-fit: contain;
     box-sizing: border-box;
-    border: 2px solid white; /* Border around each logo */
+    border: 1px solid rgb(55, 52, 52); /* Border around each logo */
     border-radius: 5px; /* Optional: Add some rounding to the corners */
     filter: grayscale(100%); /* Convert images to black and white */
     margin-right: 60px; /* Adjust gap as needed */

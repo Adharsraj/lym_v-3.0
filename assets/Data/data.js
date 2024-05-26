@@ -348,13 +348,13 @@ export const OurTopClients = [
     description:
       "Illustration library for world’s biggest data scientist platform kaggle.    ",
   },
-  {
-    id: 2,
-    img: "https://lymdatalabs.s3.ap-south-1.amazonaws.com/lym+website/clients+logo/trplogo/",
-    title: "Ayur Satva",
-    description:
-      "Created Regional versions of the title posters of most successfull disney movies.    ",
-  },
+  // {
+  //   id: 2,
+  //   img: "https://lymdatalabs.s3.ap-south-1.amazonaws.com/lym+website/clients+logo/trplogo/",
+  //   title: "Ayur Satva",
+  //   description:
+  //     "Created Regional versions of the title posters of most successfull disney movies.    ",
+  // },
   {
     id: 3,
     img: "https://lymdatalabs.s3.ap-south-1.amazonaws.com/lym+website/clients+logo/trplogo/miracle.png",
@@ -390,20 +390,20 @@ export const OurTopClients = [
   //   description:
   //     "Designed illustrations for RazorpayX and developed the FTX'21 website    ",
   // },
-  {
-    id: 8,
-    img: "https://lymdatalabs.s3.ap-south-1.amazonaws.com/lym+website/clients+logo/Casemax_Logo_368_x_200_300x300.avif",
-    title: "Case max",
-    description:
-      "Covered UI and designed 3D graphics for the fintech start-up    ",
-  },
-  {
-    id: 9,
-    img: "https://lymdatalabs.s3.ap-south-1.amazonaws.com/lym+website/clients+logo/b%26w+logo/educus+global.webp",
-    title: "Educus Global",
-    description:
-      "Covered UI and designed 3D graphics for the fintech start-up    ",
-  },
+  // {
+  //   id: 8,
+  //   img: "https://lymdatalabs.s3.ap-south-1.amazonaws.com/lym+website/clients+logo/Casemax_Logo_368_x_200_300x300.avif",
+  //   title: "Case max",
+  //   description:
+  //     "Covered UI and designed 3D graphics for the fintech start-up    ",
+  // },
+  // {
+  //   id: 9,
+  //   img: "https://lymdatalabs.s3.ap-south-1.amazonaws.com/lym+website/clients+logo/b%26w+logo/educus+global.webp",
+  //   title: "Educus Global",
+  //   description:
+  //     "Covered UI and designed 3D graphics for the fintech start-up    ",
+  // },
   {
     id: 10,
     img: "https://lymdatalabs.s3.ap-south-1.amazonaws.com/lym+website/clients+logo/trplogo/acon.png",
@@ -446,13 +446,13 @@ export const OurTopClients = [
     description:
       "Farmfed Tourism, a premier travel brand based in Kochi, offers curated global journeys,providing a unique and enriching perspective on travel.",
   },
-  {
-    id: 16,
-    img: "https://res.cloudinary.com/https-www-lymdata-com/image/upload/v1704966623/LYMDATALABS/Pages/client%20logos%20png/Curry_Crush_Svgs_1_c5myq4.webp",
-    title: "Curry Crush",
-    description:
-      "Covered UI and designed 3D graphics for the fintech start-up    ",
-  },
+  // {
+  //   id: 16,
+  //   img: "https://res.cloudinary.com/https-www-lymdata-com/image/upload/v1704966623/LYMDATALABS/Pages/client%20logos%20png/Curry_Crush_Svgs_1_c5myq4.webp",
+  //   title: "Curry Crush",
+  //   description:
+  //     "Covered UI and designed 3D graphics for the fintech start-up    ",
+  // },
   {
     id: 17,
     img: "https://lymdatalabs.s3.ap-south-1.amazonaws.com/lym+website/clients+logo/trplogo/pappaboo 1.png",
@@ -467,13 +467,13 @@ export const OurTopClients = [
     description:
       "Covered UI and designed 3D graphics for the fintech start-up    ",
   },
-  {
-    id: 19,
-    img: "https://lymdatalabs.s3.ap-south-1.amazonaws.com/lym+website/clients+logo/b%26w+logo/wayanad.webp",
-    title: "Wayanad village inn",
-    description:
-      "Covered UI and designed 3D graphics for the fintech start-up    ",
-  },
+  // {
+  //   id: 19,
+  //   img: "https://lymdatalabs.s3.ap-south-1.amazonaws.com/lym+website/clients+logo/b%26w+logo/wayanad.webp",
+  //   title: "Wayanad village inn",
+  //   description:
+  //     "Covered UI and designed 3D graphics for the fintech start-up    ",
+  // },
   {
     id: 20,
     img: "https://lymdatalabs.s3.ap-south-1.amazonaws.com/lym+website/clients+logo/trplogo/sgf.png",
