@@ -343,42 +343,42 @@ export const OurWorks = [
 export const OurTopClients = [
   {
     id: 1,
-    img: "https://lymdatalabs.s3.ap-south-1.amazonaws.com/lym+website/clients+logo/b%26w+logo/alhub.webp",
+    img: "https://lymdatalabs.s3.ap-south-1.amazonaws.com/lym+website/clients+logo/trplogo/Al+hub.png",
     title: "Al-Hub",
     description:
       "Illustration library for world’s biggest data scientist platform kaggle.    ",
   },
   {
     id: 2,
-    img: "https://lymdatalabs.s3.ap-south-1.amazonaws.com/lym+website/clients+logo/Ayur+Satva+Logo+png.png",
+    img: "https://lymdatalabs.s3.ap-south-1.amazonaws.com/lym+website/clients+logo/trplogo/",
     title: "Ayur Satva",
     description:
       "Created Regional versions of the title posters of most successfull disney movies.    ",
   },
   {
     id: 3,
-    img: "https://lymdatalabs.s3.ap-south-1.amazonaws.com/lym+website/clients+logo/Miracle+Gold+%26+Diamonds+logo.png",
+    img: "https://lymdatalabs.s3.ap-south-1.amazonaws.com/lym+website/clients+logo/trplogo/miracle.png",
     title: "Miracle",
     description:
       "Handling entire digital marketing for oppo theme store, app store and browser.    ",
   },
   {
     id: 4,
-    img: "https://lymdatalabs.s3.ap-south-1.amazonaws.com/lym+website/clients+logo/Quarinto-Horizontal-logo-%402x.png",
+    img: "https://lymdatalabs.s3.ap-south-1.amazonaws.com/lym+website/clients+logo/trplogo/Quarinto.png",
     title: "Quarinto",
     description:
       "Animated isometric illustration designs and development for the website.    ",
   },
   {
     id: 5,
-    img: "https://lymdatalabs.s3.ap-south-1.amazonaws.com/lym+website/clients+logo/unique+-cropped-unique-htl-1.png",
+    img: "https://lymdatalabs.s3.ap-south-1.amazonaws.com/lym+website/clients+logo/trplogo/Unique+hotelware.png",
     title: "Unique",
     description:
       "Delivering unique and premium hotel amenities,elevates visitor experiences with a carefully chosen collection of premium hospitality basics.",
   },
   {
     id: 6,
-    img: "https://lymdatalabs.s3.ap-south-1.amazonaws.com/lym+website/clients+logo/cropped-Oottupura-Maroon-Logo-3.webp",
+    img: "https://lymdatalabs.s3.ap-south-1.amazonaws.com/lym+website/clients+logo/trplogo/Oottupura.png ",
     title: "Gokul Ootupura",
     description:
       "Revamped entire brand along with website design and development    ",
@@ -406,42 +406,42 @@ export const OurTopClients = [
   },
   {
     id: 10,
-    img: "https://lymdatalabs.s3.ap-south-1.amazonaws.com/lym+website/clients+logo/b%26w+logo/acon+printing+press.webp",
+    img: "https://lymdatalabs.s3.ap-south-1.amazonaws.com/lym+website/clients+logo/trplogo/acon.png",
     title: "acon",
     description:
       "Covered UI and designed 3D graphics for the fintech start-up    ",
   },
   {
     id: 11,
-    img: "https://lymdatalabs.s3.ap-south-1.amazonaws.com/lym+website/clients+logo/siddha-logo-3-300x115.png",
+    img: "https://lymdatalabs.s3.ap-south-1.amazonaws.com/lym+website/clients+logo/trplogo/sidhah.png",
     title: "Sidhah",
     description:
       "Covered UI and designed 3D graphics for the fintech start-up    ",
   },
   {
     id: 12,
-    img: "https://lymdatalabs.s3.ap-south-1.amazonaws.com/lym+website/clients+logo/b%26w+logo/Artboard+1.webp",
+    img: "https://lymdatalabs.s3.ap-south-1.amazonaws.com/lym+website/clients+logo/trplogo/united.png",
     title: "United",
     description:
       "Covered UI and designed 3D graphics for the fintech start-up    ",
   },
   {
     id: 13,
-    img: "https://lymdatalabs.s3.ap-south-1.amazonaws.com/lym+website/clients+logo/Unisex+L+%26+E+logo+(2)+Black.png",
+    img: "https://lymdatalabs.s3.ap-south-1.amazonaws.com/lym+website/clients+logo/trplogo/L&E.png",
     title: "LE",
     description:
       "Offering professional hair and beauty services, L&E Unisex Salons in Kochi give customers of all genders an elegant grooming experience.",
   },
   {
     id: 14,
-    img: "https://lymdatalabs.s3.ap-south-1.amazonaws.com/lym+website/clients+logo/b%26w+logo/farmfed+fisheries.webp",
+    img: "https://lymdatalabs.s3.ap-south-1.amazonaws.com/lym+website/clients+logo/trplogo/farmed+fisheries.png ",
     title: "Farmfed Fisheries",
     description:
       "Farmfed Fishers, a prominent brand in Kochi, stands as a distinguished leader in the fisheries industry.",
   },
   {
     id: 15,
-    img: "https://lymdatalabs.s3.ap-south-1.amazonaws.com/lym+website/clients+logo/b%26w+logo/farmfed+tourism.webp",
+    img: "https://lymdatalabs.s3.ap-south-1.amazonaws.com/lym+website/clients+logo/trplogo/Farmfed+Tourism.png",
     title: "Farmfed Tourism",
     description:
       "Farmfed Tourism, a premier travel brand based in Kochi, offers curated global journeys,providing a unique and enriching perspective on travel.",
@@ -455,14 +455,14 @@ export const OurTopClients = [
   },
   {
     id: 17,
-    img: "https://lymdatalabs.s3.ap-south-1.amazonaws.com/lym+website/clients+logo/b%26w+logo/pappaboo.webp",
+    img: "https://lymdatalabs.s3.ap-south-1.amazonaws.com/lym+website/clients+logo/trplogo/pappaboo 1.png",
     title: "PappaBoo",
     description:
       "Covered UI and designed 3D graphics for the fintech start-up    ",
   },
   {
     id: 18,
-    img: "https://lymdatalabs.s3.ap-south-1.amazonaws.com/lym+website/clients+logo/b%26w+logo/aquaquarduae.webp",
+    img: "https://lymdatalabs.s3.ap-south-1.amazonaws.com/lym+website/clients+logo/trplogo/Aquaguard.png",
     title: "AquaGuard",
     description:
       "Covered UI and designed 3D graphics for the fintech start-up    ",
@@ -476,7 +476,7 @@ export const OurTopClients = [
   },
   {
     id: 20,
-    img: "https://lymdatalabs.s3.ap-south-1.amazonaws.com/lym+website/clients+logo/b%26w+logo/south+green+farming.webp",
+    img: "https://lymdatalabs.s3.ap-south-1.amazonaws.com/lym+website/clients+logo/trplogo/sgf.png",
     title: "Souther green farming",
     description:
       "Covered UI and designed 3D graphics for the fintech start-up    ",
