@@ -1,11 +1,12 @@
-import Blog1 from "../../Components/Blog/BlogComponents/Blog1";
-import Blog2 from "../../Components/Blog/BlogComponents/Blog2";
-import Blog3 from "../../Components/Blog/BlogComponents/Blog3";
-import Blog4 from "../../Components/Blog/BlogComponents/Blog4";
-import Blog5 from "../../Components/Blog/BlogComponents/Blog5";
-import Blog6 from "../../Components/Blog/BlogComponents/Blog6";
-import Blog7 from "../../Components/Blog/BlogComponents/Blog7";
-import Blog8 from "../../Components/Blog/BlogComponents/Blog8";
+
+import Blog1 from "@/components/Blog/BlogComponents/Blog1";
+import Blog2 from "@/components/Blog/BlogComponents/Blog2";
+import Blog3 from "@/components/Blog/BlogComponents/Blog3";
+import Blog4 from "@/components/Blog/BlogComponents/Blog4";
+import Blog5 from "@/components/Blog/BlogComponents/Blog5";
+import Blog6 from "@/components/Blog/BlogComponents/Blog6";
+import Blog7 from "@/components/Blog/BlogComponents/Blog7";
+import Blog8 from "@/components/Blog/BlogComponents/Blog8";
 import Blog9 from "@/Components/Blog/BlogComponents/Blog9";
 
 export const OurTechStack = [
